@@ -1,6 +1,15 @@
 # K-Chat
 K-Chat is a real-time messaging application featuring user authentication and instant, synchronized messaging. 
 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Socket.io](https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white)
+
+<p align="center">
+<img src="https://github.com/user-attachments/assets/75cd5fb5-652a-4442-b644-3dbde629b7e1" alt="K-Chat in action" width="100%" />
+</p>
+
 ---
 
 ## Overview
